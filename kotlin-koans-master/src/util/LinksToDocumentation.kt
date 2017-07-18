@@ -72,14 +72,14 @@ fun doc25() {}
 fun doc28() {}
 
 /**
- * @see <a href="http://kotlinlang.org/docs/reference/ranges.html">Ranges</a>
- */
-fun doc26() {}
-
-/**
  * @see <a href="http://kotlinlang.org/docs/reference/multi-declarations.html#multi-declarations">Destructuring declarations</a>
  */
 fun doc30() {}
+
+/**
+ * @see <a href="http://kotlinlang.org/docs/reference/ranges.html">Ranges</a>
+ */
+fun doc26() {}
 
 /**
  * @see <a href="http://kotlinlang.org/docs/reference/properties.html#properties-and-fields">Properties</a>
