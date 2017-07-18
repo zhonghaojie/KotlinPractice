@@ -76,3 +76,5 @@ The koans tasks for web-demo and educational plugin can be found here: https://g
 
 
 Creating a new branch is quick.
+
+Creating a new branch is quick AND simple.
