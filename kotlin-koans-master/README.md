@@ -73,3 +73,6 @@ You can solve the similar tasks using Educational Plugin or in the browser:
 - online version of koans http://try.kotl.in
 
 The koans tasks for web-demo and educational plugin can be found here: https://github.com/Kotlin/kotlin-koans-edu
+
+
+Creating a new branch is quick.
