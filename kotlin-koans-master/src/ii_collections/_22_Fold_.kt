@@ -17,6 +17,5 @@ fun Shop.getSetOfProductsOrderedByEveryCustomer(): Set<Product> {
     return customers.fold(allOrderedProducts, {
         orderedByAll, customer -> orderedByAll.intersect(customer.orders.flatMap { it.products })
 //        intersect取两个集合相交的部分
-
     })
 }
