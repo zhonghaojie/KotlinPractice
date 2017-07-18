@@ -20,7 +20,3 @@ fun Shop.getSetOfProductsOrderedByEveryCustomer(): Set<Product> {
 
     })
 }
-
-fun getIntersect(orderedByAll:Set<Product>,customer:Customer):List<Product>{
-    return orderedByAll.intersect(customer.orders.flatMap { it.products }).toList()
-}
